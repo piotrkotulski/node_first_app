@@ -1,0 +1,162 @@
+[
+  {
+    "gender": "M",
+    "firstName": "Jan",
+    "lastName": "Wójcik",
+    "age": 23,
+    "phoneNumber": "+48480706473",
+    "email": "jan.wójcik@gmail.com"
+  },
+  {
+    "gender": "F",
+    "firstName": "Agnieszka",
+    "lastName": "Kowalczyk",
+    "age": 69,
+    "phoneNumber": "+48528779844",
+    "email": "agnieszka.kowalczyk@gmail.com"
+  },
+  {
+    "gender": "F",
+    "firstName": "Anna",
+    "lastName": "Kowalski",
+    "age": 28,
+    "phoneNumber": "+48730810415",
+    "email": "anna.kowalski@gmail.com"
+  },
+  {
+    "gender": "M",
+    "firstName": "Jan",
+    "lastName": "Wiśniewski",
+    "age": 36,
+    "phoneNumber": "+48971399881",
+    "email": "jan.wiśniewski@gmail.com"
+  },
+  {
+    "gender": "M",
+    "firstName": "Marek",
+    "lastName": "Wiśniewski",
+    "age": 51,
+    "phoneNumber": "+48899892881",
+    "email": "marek.wiśniewski@gmail.com"
+  },
+  {
+    "gender": "M",
+    "firstName": "Marek",
+    "lastName": "Kowalczyk",
+    "age": 67,
+    "phoneNumber": "+48200986393",
+    "email": "marek.kowalczyk@gmail.com"
+  },
+  {
+    "gender": "M",
+    "firstName": "Paweł",
+    "lastName": "Nowak",
+    "age": 26,
+    "phoneNumber": "+48448902967",
+    "email": "paweł.nowak@gmail.com"
+  },
+  {
+    "gender": "F",
+    "firstName": "Magdalena",
+    "lastName": "Nowak",
+    "age": 55,
+    "phoneNumber": "+48513074527",
+    "email": "magdalena.nowak@gmail.com"
+  },
+  {
+    "gender": "F",
+    "firstName": "Katarzyna",
+    "lastName": "Kowalczyk",
+    "age": 48,
+    "phoneNumber": "+48694954109",
+    "email": "katarzyna.kowalczyk@gmail.com"
+  },
+  {
+    "gender": "F",
+    "firstName": "Maria",
+    "lastName": "Wójcik",
+    "age": 38,
+    "phoneNumber": "+48067865030",
+    "email": "maria.wójcik@gmail.com"
+  },
+  {
+    "gender": "F",
+    "firstName": "Maria",
+    "lastName": "Nowak",
+    "age": 57,
+    "phoneNumber": "+48215421921",
+    "email": "maria.nowak@gmail.com"
+  },
+  {
+    "gender": "F",
+    "firstName": "Magdalena",
+    "lastName": "Kowalski",
+    "age": 44,
+    "phoneNumber": "+48678907885",
+    "email": "magdalena.kowalski@gmail.com"
+  },
+  {
+    "gender": "M",
+    "firstName": "Paweł",
+    "lastName": "Wójcik",
+    "age": 52,
+    "phoneNumber": "+48506361738",
+    "email": "paweł.wójcik@gmail.com"
+  },
+  {
+    "gender": "M",
+    "firstName": "Jan",
+    "lastName": "Nowak",
+    "age": 58,
+    "phoneNumber": "+48434157036",
+    "email": "jan.nowak@gmail.com"
+  },
+  {
+    "gender": "F",
+    "firstName": "Agnieszka",
+    "lastName": "Nowak",
+    "age": 67,
+    "phoneNumber": "+48453219645",
+    "email": "agnieszka.nowak@gmail.com"
+  },
+  {
+    "gender": "M",
+    "firstName": "Paweł",
+    "lastName": "Nowak",
+    "age": 59,
+    "phoneNumber": "+48983801509",
+    "email": "paweł.nowak@gmail.com"
+  },
+  {
+    "gender": "M",
+    "firstName": "Paweł",
+    "lastName": "Nowak",
+    "age": 24,
+    "phoneNumber": "+48265556259",
+    "email": "paweł.nowak@gmail.com"
+  },
+  {
+    "gender": "F",
+    "firstName": "Anna",
+    "lastName": "Nowak",
+    "age": 41,
+    "phoneNumber": "+48354242815",
+    "email": "anna.nowak@gmail.com"
+  },
+  {
+    "gender": "F",
+    "firstName": "Katarzyna",
+    "lastName": "Kowalczyk",
+    "age": 42,
+    "phoneNumber": "+48581142698",
+    "email": "katarzyna.kowalczyk@gmail.com"
+  },
+  {
+    "gender": "F",
+    "firstName": "Magdalena",
+    "lastName": "Wójcik",
+    "age": 77,
+    "phoneNumber": "+48971722725",
+    "email": "magdalena.wójcik@gmail.com"
+  }
+]

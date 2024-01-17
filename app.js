@@ -24,12 +24,12 @@ function generateEmail(firstName, lastName) {
 let people = [];
 
 for (let i = 0; i < 20; i++) {
-    let gender = randChoice(genders);
-    let firstName = gender === 'M' ? randChoice(maleNames) : randChoice(femaleNames);
-    let lastName = randChoice(lastNames);
-    let age = Math.floor(Math.random() * (78 - 18 + 1) + 18);
-    let phoneNumber = generatePhoneNumber();
-    let email = generateEmail(firstName, lastName);
+    const gender = randChoice(genders);
+    const firstName = gender === 'M' ? randChoice(maleNames) : randChoice(femaleNames);
+    const lastName = randChoice(lastNames);
+    const age = Math.floor(Math.random() * (78 - 18 + 1) + 18);
+    const phoneNumber = generatePhoneNumber();
+    const email = generateEmail(firstName, lastName);
 
     people.push({
         gender,

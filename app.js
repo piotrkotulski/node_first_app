@@ -21,7 +21,7 @@ function generateEmail(firstName, lastName) {
     return `${firstName.toLowerCase()}.${lastName.toLowerCase()}@gmail.com`;
 }
 
-let people = [];
+const people = [];
 
 for (let i = 0; i < 20; i++) {
     const gender = randChoice(genders);
